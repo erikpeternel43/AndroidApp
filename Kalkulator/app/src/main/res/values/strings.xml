@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="spremen">Spremeni</string>
+    <string name="plus">+</string>
+    <string name="clear">C</string>
+    <string name="exponent">^</string>
+    <string name="multiply">x</string>
+    <string name="procent">%</string>
+    <string name="devide">÷</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="minus">-</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_3">3</string>
+    <string name="_6">6</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="pika">.</string>
+    <string name="enako">=</string>
+    <string name="_0">0</string>
+    <string name="enter_a_value">Enter value</string>
+    <string name="pretvornik">CURRENCY CONVERTER</string>
+    <string name="pretvoriiz">From</string>
+    <string name="pretvori">0.00</string>
+    <string name="date_of_conversion">Date of conversion</string>
+    <string name="Def">Current and historical foreign exchange rates published by the European Central Bank</string>
+
+
+    <string-array name="currencies">
+        <item>AUD</item>
+        <item>BGN</item>
+        <item>BRL</item>
+        <item>CAD</item>
+        <item>CHF</item>
+        <item>CNY</item>
+        <item>CZK</item>
+        <item>DKK</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>HDK</item>
+        <item>HRK</item>
+        <item>HUF</item>
+        <item>IDR</item>
+        <item>ILS</item>
+        <item>INR</item>
+        <item>ISK</item>
+        <item>JPY</item>
+        <item>KRW</item>
+        <item>MXN</item>
+        <item>MYR</item>
+        <item>NOK</item>
+        <item>NZD</item>
+        <item>PHP</item>
+        <item>PLN</item>
+        <item>RON</item>
+        <item>RUB</item>
+        <item>SEK</item>
+        <item>SGD</item>
+        <item>THB</item>
+        <item>TRY</item>
+        <item>USD</item>
+        <item>ZAR</item>
+    </string-array>
+
+    <string-array name="currenciesTo">
+        <item>AUD</item>
+        <item>BGN</item>
+        <item>BRL</item>
+        <item>CAD</item>
+        <item>CHF</item>
+        <item>CNY</item>
+        <item>CZK</item>
+        <item>DKK</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>HDK</item>
+        <item>HRK</item>
+        <item>HUF</item>
+        <item>IDR</item>
+        <item>ILS</item>
+        <item>INR</item>
+        <item>ISK</item>
+        <item>JPY</item>
+        <item>KRW</item>
+        <item>MXN</item>
+        <item>MYR</item>
+        <item>NOK</item>
+        <item>NZD</item>
+        <item>PHP</item>
+        <item>PLN</item>
+        <item>RON</item>
+        <item>RUB</item>
+        <item>SEK</item>
+        <item>SGD</item>
+        <item>THB</item>
+        <item>TRY</item>
+        <item>USD</item>
+        <item>ZAR</item>
+    </string-array>
+
+
+
+</resources>
